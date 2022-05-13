@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route, useParams } from "react-router-dom";
 import Home from "./Home";
 import "./App.css";
 
-function Router() {
+function App() {
   return (
     <>
       <BrowserRouter>
@@ -15,4 +15,4 @@ function Router() {
   );
 }
 
-export default Router;
+export default App;
