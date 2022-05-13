@@ -1,0 +1,16 @@
+.formInput {
+    border: 1px solid rgb(170, 168, 168);
+    border-radius: .4em;
+    width: 5em;
+    text-align: center;
+}
+
+.plumb_cont {
+    display: flex;
+    justify-content: center;
+}
+
+.plumb_break {
+    height: 40px;
+    width: 30px!important;
+}
