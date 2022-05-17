@@ -1,24 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.2c6d1573.css",
-    "main.js": "/static/js/main.bc1efb3e.js",
-    "static/js/787.a7a591db.chunk.js": "/static/js/787.a7a591db.chunk.js",
-    "static/media/sim4-map.png": "/static/media/sim4-map.9cdc20f7dc053acc2cec.png",
-    "static/media/newBck.png": "/static/media/newBck.fec465e34b83195cd2be.png",
-    "static/media/green.png": "/static/media/green.a50e1289cab44d7dc036.png",
-    "static/media/red.png": "/static/media/red.776c7ac7fb370f47452e.png",
-    "static/media/purple.png": "/static/media/purple.6d75a77b4a57f3386427.png",
-    "static/media/yellow.png": "/static/media/yellow.a5ef6f02fc2262b7f175.png",
-    "static/media/blue.png": "/static/media/blue.52e6a8773225847dae8c.png",
-    "static/media/Loucos Lyne - thesimssansbold.otf": "/static/media/Loucos Lyne - thesimssansbold.34c21b0d35e23988308b.otf",
-    "static/media/sim-man.png": "/static/media/sim-man.a9f49b3dbf07f1e1a167.png",
-    "index.html": "/index.html",
-    "main.2c6d1573.css.map": "/static/css/main.2c6d1573.css.map",
-    "main.bc1efb3e.js.map": "/static/js/main.bc1efb3e.js.map",
-    "787.a7a591db.chunk.js.map": "/static/js/787.a7a591db.chunk.js.map"
+    "main.css": "/enitial/Simlish4/static/css/main.62117215.css",
+    "main.js": "/enitial/Simlish4/static/js/main.60b56e1e.js",
+    "static/js/787.a7a591db.chunk.js": "/enitial/Simlish4/static/js/787.a7a591db.chunk.js",
+    "static/media/sim4-map.png": "/enitial/Simlish4/static/media/sim4-map.9cdc20f7dc053acc2cec.png",
+    "static/media/newBck.png": "/enitial/Simlish4/static/media/newBck.fec465e34b83195cd2be.png",
+    "static/media/green.png": "/enitial/Simlish4/static/media/green.a50e1289cab44d7dc036.png",
+    "static/media/Loucos Lyne - thesimssansbold.otf": "/enitial/Simlish4/static/media/Loucos Lyne - thesimssansbold.34c21b0d35e23988308b.otf",
+    "index.html": "/enitial/Simlish4/index.html",
+    "main.62117215.css.map": "/enitial/Simlish4/static/css/main.62117215.css.map",
+    "main.60b56e1e.js.map": "/enitial/Simlish4/static/js/main.60b56e1e.js.map",
+    "787.a7a591db.chunk.js.map": "/enitial/Simlish4/static/js/787.a7a591db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c6d1573.css",
-    "static/js/main.bc1efb3e.js"
+    "static/css/main.62117215.css",
+    "static/js/main.60b56e1e.js"
   ]
 }
