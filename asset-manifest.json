@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/enitial/Simlish4/static/css/main.62117215.css",
-    "main.js": "/enitial/Simlish4/static/js/main.60b56e1e.js",
-    "static/js/787.a7a591db.chunk.js": "/enitial/Simlish4/static/js/787.a7a591db.chunk.js",
-    "static/media/sim4-map.png": "/enitial/Simlish4/static/media/sim4-map.9cdc20f7dc053acc2cec.png",
-    "static/media/newBck.png": "/enitial/Simlish4/static/media/newBck.fec465e34b83195cd2be.png",
-    "static/media/green.png": "/enitial/Simlish4/static/media/green.a50e1289cab44d7dc036.png",
-    "static/media/Loucos Lyne - thesimssansbold.otf": "/enitial/Simlish4/static/media/Loucos Lyne - thesimssansbold.34c21b0d35e23988308b.otf",
-    "index.html": "/enitial/Simlish4/index.html",
-    "main.62117215.css.map": "/enitial/Simlish4/static/css/main.62117215.css.map",
-    "main.60b56e1e.js.map": "/enitial/Simlish4/static/js/main.60b56e1e.js.map",
-    "787.a7a591db.chunk.js.map": "/enitial/Simlish4/static/js/787.a7a591db.chunk.js.map"
+    "main.css": "/Simlish4/static/css/main.e415f547.css",
+    "main.js": "/Simlish4/static/js/main.b572d1b5.js",
+    "static/js/787.a7a591db.chunk.js": "/Simlish4/static/js/787.a7a591db.chunk.js",
+    "static/media/sim4-map.png": "/Simlish4/static/media/sim4-map.9cdc20f7dc053acc2cec.png",
+    "static/media/newBck.png": "/Simlish4/static/media/newBck.fec465e34b83195cd2be.png",
+    "static/media/green.png": "/Simlish4/static/media/green.a50e1289cab44d7dc036.png",
+    "static/media/Loucos Lyne - thesimssansbold.otf": "/Simlish4/static/media/Loucos Lyne - thesimssansbold.34c21b0d35e23988308b.otf",
+    "index.html": "/Simlish4/index.html",
+    "main.e415f547.css.map": "/Simlish4/static/css/main.e415f547.css.map",
+    "main.b572d1b5.js.map": "/Simlish4/static/js/main.b572d1b5.js.map",
+    "787.a7a591db.chunk.js.map": "/Simlish4/static/js/787.a7a591db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.62117215.css",
-    "static/js/main.60b56e1e.js"
+    "static/css/main.e415f547.css",
+    "static/js/main.b572d1b5.js"
   ]
 }
