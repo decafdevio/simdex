@@ -2,7 +2,7 @@
 
 ![react](https://badgen.net/badge/React/18.0.0/purple?icon=git)
 
-![project-art](/img/poster.png)
+![project-art](/src/img/poster.png)
 
 A SPA for the client to refer to Sims4 documentation and custom content they use on a regular basis. Styled with Bootstrap elements using React.js.
 
