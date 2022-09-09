@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Simlish4/static/css/main.e415f547.css",
-    "main.js": "/Simlish4/static/js/main.b572d1b5.js",
-    "static/js/787.a7a591db.chunk.js": "/Simlish4/static/js/787.a7a591db.chunk.js",
-    "static/media/sim4-map.png": "/Simlish4/static/media/sim4-map.9cdc20f7dc053acc2cec.png",
-    "static/media/newBck.png": "/Simlish4/static/media/newBck.fec465e34b83195cd2be.png",
-    "static/media/green.png": "/Simlish4/static/media/green.a50e1289cab44d7dc036.png",
-    "static/media/Loucos Lyne - thesimssansbold.otf": "/Simlish4/static/media/Loucos Lyne - thesimssansbold.34c21b0d35e23988308b.otf",
-    "index.html": "/Simlish4/index.html",
-    "main.e415f547.css.map": "/Simlish4/static/css/main.e415f547.css.map",
-    "main.b572d1b5.js.map": "/Simlish4/static/js/main.b572d1b5.js.map",
-    "787.a7a591db.chunk.js.map": "/Simlish4/static/js/787.a7a591db.chunk.js.map"
+    "main.css": "/simdex/static/css/main.dca9e9ce.css",
+    "main.js": "/simdex/static/js/main.a5b99950.js",
+    "static/js/787.a7a591db.chunk.js": "/simdex/static/js/787.a7a591db.chunk.js",
+    "static/media/sim4-map.png": "/simdex/static/media/sim4-map.9cdc20f7dc053acc2cec.png",
+    "static/media/newBck.png": "/simdex/static/media/newBck.fec465e34b83195cd2be.png",
+    "static/media/green.png": "/simdex/static/media/green.a50e1289cab44d7dc036.png",
+    "static/media/Loucos Lyne - thesimssansbold.otf": "/simdex/static/media/Loucos Lyne - thesimssansbold.34c21b0d35e23988308b.otf",
+    "index.html": "/simdex/index.html",
+    "main.dca9e9ce.css.map": "/simdex/static/css/main.dca9e9ce.css.map",
+    "main.a5b99950.js.map": "/simdex/static/js/main.a5b99950.js.map",
+    "787.a7a591db.chunk.js.map": "/simdex/static/js/787.a7a591db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e415f547.css",
-    "static/js/main.b572d1b5.js"
+    "static/css/main.dca9e9ce.css",
+    "static/js/main.a5b99950.js"
   ]
 }
