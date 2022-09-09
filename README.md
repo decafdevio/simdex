@@ -1,8 +1,8 @@
-# Simlish Sims4 Documentation App
+# Simdex Sims4 Documentation App
 
 ![react](https://badgen.net/badge/React/18.0.0/purple?icon=git)
 
-A simple app for the client to refer to Sims4 documentation and content they use on a regular basis. Styled with Bootstrap elements using ReactJS framework.
+A SPA for the client to refer to Sims4 documentation and custom content they use on a regular basis. Styled with Bootstrap elements using React.js.
 
 ## Installation
 
