@@ -1,7 +1,7 @@
 {
   "name": "sims",
   "version": "0.1.0",
-  "homepage": "https://enitial.github.io/Simlish4",
+  "homepage": "https://enitial.github.io/simdex",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
